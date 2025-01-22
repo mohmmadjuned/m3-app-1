@@ -1,8 +1,0 @@
-components_by_slot:
-  app_bar_title:
-  - layout_properties: {}
-    name: data_grid_header_1
-    properties: {role: data-grid-header}
-    type: DataRowPanel
-is_package: true
-layout: {type: 'form:dep_lin1x4oec0ytd:Layouts.NavigationDrawerLayout'}
