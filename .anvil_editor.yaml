@@ -1,7 +1,9 @@
 unique_ids:
   assets:
     theme.css: 6G44GIEQQRJLILWU6GQSQO5BTDFT5ZI3
-  forms: {}
+  forms:
+    Form1: '1737557731786887706463285.789'
+    Form2: '1737558087325413309017970.12286'
   modules: {}
   scripts: {}
   server_modules: {}
